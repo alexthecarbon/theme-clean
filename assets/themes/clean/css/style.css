@@ -102,3 +102,11 @@ body{
 	padding-bottom: 0px;
 	margin-bottom: 0px;
 }
+pre{
+	border-top: none;
+	border-right: none;
+	border-bottom: none;
+	background: none;
+	color: gray;
+	border-radius: 0px;
+}
